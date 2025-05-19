@@ -6,8 +6,8 @@ Just a self-taught full-stack dev who loves turning ideas into real, working app
 
 ### What I’m up to these days
 
-- Building stuff with **React** (plain JavaScript — because sometimes simplicity wins)
-- Crafting backend APIs with **NestJS** and TypeScript — typed code keeps me sane
+- Building stuff with **React** (JSX)
+- Crafting backend APIs with **NestJS** (TypeScript)
 - Managing data with **PostgreSQL**
 - Using **Docker** and **Git** to keep things tidy and easy to share
 
@@ -18,7 +18,6 @@ Just a self-taught full-stack dev who loves turning ideas into real, working app
 - 📧 Shoot me an email: [ariankhadem4@gmail.com](mailto:ariankhadem4@gmail.com)  
 - 🌐 Check out my portfolio: [ariankhadem.vercel.app](https://ariankhadem.vercel.app)  
 - 💼 Let’s connect on LinkedIn: [linkedin.com/in/ariankhadem](https://linkedin.com/in/ariankhadem)  
-- 🐙 GitHub: [github.com/calledarian](https://github.com/calledarian)  
 
 ---
 
