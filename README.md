@@ -6,8 +6,8 @@ Just a self-taught full-stack dev who loves turning ideas into real, working app
 
 ### What I’m up to these days
 
-- Building stuff with **React** (JSX)
-- Crafting backend APIs with **NestJS** (TypeScript)
+- Building stuff with **React**
+- Crafting backend APIs with **NestJS**
 - Managing data with **PostgreSQL**
 - Using **Docker** and **Git** to keep things tidy and easy to share
 
