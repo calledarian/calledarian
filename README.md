@@ -1,30 +1,30 @@
-<h1 align="center">Hi, I'm Arian</h1>
-
-<p align="center"><em>I build full-stack applications that power businesses.</em></p>
-
----
-
-## About Me
-
-I work across the stack to deliver fast, reliable, and user-friendly software.  
-From admin dashboards to public-facing platforms, I care about performance, clarity, and real-world impact.
-
-If there's a challenge, I build the solution.
+<h1 align="center">Hey, It's Arian</h1>
+<p align="center">Push, Debug, Checkmate!</p>
 
 ---
 
-## Projects
+### What I’m up to these days?
+
+- Building stuff with **React**
+- Crafting backend APIs with **NestJS**
+- Managing data with **PostgreSQL**
+- Using **Docker** and **Git** to keep things tidy and easy to share
+
+---
+
+### Projects I Build
 
 - Admin dashboards  
 - Booking & reservation systems  
-- Custom tools for managing content, users, or services  
-- A full tour booking website — built from scratch for a client in Southeast Asia (my favorite project so far)
+- Custom full-stack tools
 
 ---
 
-## Contact
+<p align="center" display="flex">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=calledarian&layout=compact&langs_count=6&theme=nightowl" />
+</p>
 
-<p align="center">
+<p align="center" display="flex">
   <a href="https://www.linkedin.com/in/ariankhadem" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" /></a>
   <a href="mailto:ariankhadem4@gmail.comM"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://ariankhadem.vercel.app" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Visit-%23007acc?style=for-the-badge&logo=vercel" /></a>
