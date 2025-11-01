@@ -39,6 +39,4 @@
   </a>
 </p>
 
-<p align="center">
-  ![](https://komarev.com/ghpvc/?username=calledarian)
-</p>
+![](https://komarev.com/ghpvc/?username=calledarian)
