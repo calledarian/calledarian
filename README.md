@@ -1,33 +1,44 @@
 <h1 align="center">Hey, It's Arian</h1>
-<p align="center">Push, Debug, Checkmate!</p>
+<p align="center">Sometimes pushes code, sometimes weights.</p>
 
 ---
 
-### What I’m up to these days?
+### What I’m up to these days 
 
-- Building stuff with **React**
-- Crafting backend APIs with **NestJS**
-- Managing data with **PostgreSQL**
-- Using **Docker** and **Git** to keep things tidy and easy to share
-
----
-
-### Projects I Build
-
-- Admin dashboards  
-- Booking & reservation systems  
-- Custom full-stack tools
+- Building awesome stuff with **NextJS**
+- Crafting robust backend APIs with **NestJS** & **Django**
+- Designing databases and exploring best practices
 
 ---
 
-<p align="center" display="flex">
+### My Experience
+
+- **Content Management Systems** – for NGOs, Banks, and other businesses  
+- **Automation Systems** – for restaurants and small enterprises  
+- **Full Applications** – Mobile/Web/Microservices (from Aliexpress-like online shopping platforms to community-based area management systems)
+
+---
+
+### My GitHub Stats 
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=calledarian&layout=compact&langs_count=6&theme=nightowl" />
 </p>
 
-<p align="center" display="flex">
-  <a href="https://www.linkedin.com/in/arian-khademolghorani" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" /></a>
-  <a href="mailto:ariankhadem4@gmail.comM"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://arian.my" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Visit-%23007acc?style=for-the-badge&logo=vercel" /></a>
+---
+
+### Connect with me 
+<p align="center">
+  <a href="https://www.linkedin.com/in/arian-khademolghorani" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" />
+  </a>
+  <a href="mailto:ariankhadem4@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://arian.my" target="_blank">
+    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Visit-%23007acc?style=for-the-badge&logo=vercel" />
+  </a>
 </p>
 
-![](https://komarev.com/ghpvc/?username=calledarian)
+<p align="center">
+  ![](https://komarev.com/ghpvc/?username=calledarian)
+</p>
