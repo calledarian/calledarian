@@ -1,22 +1,17 @@
 <h1 align="center">Hey, It's Arian</h1>
-<p align="center">Sometimes pushes code, sometimes weights.</p>
-
 ---
 
 ### What I’m up to these days 
-
 - Building awesome stuff with **NextJS**
 - Crafting robust backend APIs with **NestJS** & **Django**
 - Designing databases and exploring best practices
-
 ---
 
 ### My Experience
-
 - **Content Management Systems** – for NGOs, Banks, and other businesses  
-- **Automation Systems** – for restaurants and small enterprises  
+- **Automation Systems** – for restaurants and small enterprises
+- **Finance Tools** - for experienced stock traders
 - **Full Applications** – Mobile/Web/Microservices (from Aliexpress-like online shopping platforms to community-based area management systems)
-
 ---
 
 ### Tech Stack 
