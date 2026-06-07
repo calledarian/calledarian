@@ -1,21 +1,21 @@
 <h1 align="center">Hi, I'm Arian</h1>
 <h4 align="center">
-Founder & Software Engineer of Ariel Solutions — building scalable, production-grade systems for modern businesses.
+Software Engineering passionate about building web, mobile, and backend applications.
 </h4>
 
-### What I’m Focused On
-- Building high-performance applications with **Next.js**
-- Designing robust backend systems using **NestJS** & **Django**
-- Architecting efficient, scalable database systems
+### What I'm Learning
+- Building applications with **Next.js** and **React**
+- Developing backend services using **NestJS** and **Django**
+- Working with databases and scalable application architecture
 
 ---
 
-### Experience
-- **Content Management Systems** – delivered for NGOs, financial institutions, and businesses  
-- **Automation Systems** – streamlined operations for restaurants and small enterprises  
-- **Finance & Analytics Tools** – built for active stock traders and data-driven workflows  
-- **Full Applications** – end-to-end development across Mobile, Web, and Microservices  
-  *(including e-commerce platforms and community management systems)*
+### Learning Experience
+- Built and customized websites using modern CMS platforms
+- Developed projects across web and mobile platforms
+- Learned API integrations, automation workflows, and authentication systems
+- Worked with databases, cloud services, and deployment tools
+- Created full-stack applications as part of self-directed learning and traineeships
 
 ---
 
